@@ -1,6 +1,5 @@
 import { NavLink } from "react-router-dom";
-import { useState } from "react";
-import logo from "/public/Logo.png";
+import { useState} from "react";
 
 export const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -23,7 +22,7 @@ export const Navbar = () => {
         {/* Logo */}
         <NavLink to="/" onClick={scrollToTop} className="flex items-center gap-2">
           <img
-            src={logo}
+            src="/images/Logo.png" // Logo in public/images
             alt="Rio Crop Science"
             className="h-14 w-auto object-contain"
           />

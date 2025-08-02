@@ -30,7 +30,7 @@ export const Home = () => {
           {/* About Snapshot */}
           <div className="grid md:grid-cols-2 gap-10 items-center">
             <img
-              src="/public/AllProduct.jpg"
+              src="/images/AllProduct.jpg"
               alt="Farming"
               className="rounded-2xl shadow-lg hover:scale-[1.01] transition-transform duration-300"
             />

@@ -4,7 +4,7 @@ export const Products = () => {
   const productList = [
     {
       name: "Humic Gold",
-      image: "/public/product1.jpg",
+      image: "/images/product1.jpg",
       category: "Root Enhancer",
       desc: "HUMIC GOLD is a root enhancer containing shiny crystals. It increases root mass, fruit yield, and biomass of the plant. Reduces fertilizer doses by 20–25% and improves soil porosity, aeration, and water retention.",
       details: [
@@ -17,7 +17,7 @@ export const Products = () => {
     },
     {
       name: "Riovita",
-      image: "/public/product2.jpg",
+      image: "/images/product2.jpg",
       category: "Yield Enhancer",
       desc: "Yield enhancer with humic, seaweed, amino acid, fulvic acid, and trace elements. Increases biomass, yield, root mass, and improves soil fertility.",
       details: [
@@ -30,7 +30,7 @@ export const Products = () => {
     },
     {
       name: "Rio Bahaar",
-      image: "/public/product3.jpg",
+      image: "/images/product3.jpg",
       category: "Flowering Stimulant",
       desc: "Organic compound used as a plant energizer, flowering stimulant, and yield enhancer. Helps convert flowers to fruits.",
       details: [
@@ -43,7 +43,7 @@ export const Products = () => {
     },
     {
       name: "Rio Neem Kadu",
-      image: "/public/product4.jpg",
+      image: "/images/product4.jpg",
       category: "Insecticide",
       desc: "Makes plants bitter to pests. Controls a wide range of pests including aphids, whiteflies, spidermites, and scale insects.",
       details: [
@@ -56,7 +56,7 @@ export const Products = () => {
     },
     {
       name: "Rio Potash",
-      image: "/public/product5.jpg",
+      image: "/images/product5.jpg",
       category: "Organic Potash",
       desc: "Essential macro nutrient for photosynthesis, water balance, enzyme activation, and fruit quality.",
       details: [
@@ -69,7 +69,7 @@ export const Products = () => {
     },
     {
       name: "Prabal-60",
-      image: "/public/product6.jpg",
+      image: "/images/product6.jpg",
       category: "Amino Acid",
       desc: "Stimulates plant growth and supports stress tolerance, disease resistance, and protein synthesis.",
       details: [
@@ -82,7 +82,7 @@ export const Products = () => {
     },
     {
       name: "Rollex",
-      image: "/public/product7.jpg",
+      image: "/images/product7.jpg",
       category: "Organic Extract",
       desc: "Yield enhancer that improves soil aeration and water retention while increasing microflora.",
       details: [
@@ -95,7 +95,7 @@ export const Products = () => {
     },
     {
       name: "Shine",
-      image: "/public/product8.jpg",
+      image: "/images/product8.jpg",
       category: "Organic Extract",
       desc: "Same as Rollex with emphasis on yield and root mass. Enhances soil porosity and microbial life.",
       details: [
@@ -108,7 +108,7 @@ export const Products = () => {
     },
     {
       name: "Tandav",
-      image: "/public/product9.jpg",
+      image: "/images/product9.jpg",
       category: "Plant Protector",
       desc: "Protects against mites and thrips in crops like cotton, paddy, and chillies.",
       details: [
@@ -120,7 +120,7 @@ export const Products = () => {
     },
     {
       name: "Pralay",
-      image: "/public/product10.jpg",
+      image: "/images/product10.jpg",
       category: "Plant Protector",
       desc: "Used for effective control of mites and thrips. Ideal for a wide range of crops.",
       details: ["Powerful protection", "Suitable for major crops"],
@@ -129,7 +129,7 @@ export const Products = () => {
     },
     {
       name: "Spector",
-      image: "/public/product11.jpg",
+      image: "/images/product11.jpg",
       category: "Plant Protector",
       desc: "Effective against all stages of larva in cotton, paddy, and vegetable crops.",
       details: ["Long-lasting larva control", "Protects against chewing pests"],
@@ -138,7 +138,7 @@ export const Products = () => {
     },
     {
       name: "Hunter",
-      image: "/public/product12.jpg",
+      image: "/images/product12.jpg",
       category: "Plant Protector",
       desc: "Protects all stages of larva, suitable for cotton, paddy, chillies, and other vegetables.",
       details: ["Targets larva lifecycle", "Broad crop application"],
@@ -147,7 +147,7 @@ export const Products = () => {
     },
     {
       name: "Hydra-1",
-      image: "/public/product13.jpg",
+      image: "/images/product13.jpg",
       category: "Plant Protector",
       desc: "Powerful plant protector against larva, effective in low doses.",
       details: ["Strong impact at 1 ml/ltr", "Suitable for many crops"],
@@ -156,7 +156,7 @@ export const Products = () => {
     },
     {
       name: "Lexica",
-      image: "/public/product14.jpg",
+      image: "/images/product14.jpg",
       category: "Plant Protector",
       desc: "Effective control of aphids (mava) in major field and vegetable crops.",
       details: ["Controls sap-sucking pests", "Enhances plant recovery"],
@@ -165,7 +165,7 @@ export const Products = () => {
     },
     {
       name: "Bridge",
-      image: "/public/product15.jpg",
+      image: "/images/product15.jpg",
       category: "Micronutrient Mixture",
       desc: "Essential micronutrients supporting photosynthesis and plant development.",
       details: ["Improves yield and growth", "Optimizes photosynthesis"],
@@ -174,7 +174,7 @@ export const Products = () => {
     },
     {
       name: "Silwet",
-      image: "/public/product16.jpg",
+      image: "/images/product16.jpg",
       category: "Silicon-Based Spreader",
       desc: "Non-toxic spray adjuvant used with various agrochemicals.",
       details: ["Improves chemical absorption", "Silicon-based, safe and effective"],
@@ -183,7 +183,7 @@ export const Products = () => {
     },
     {
       name: "Annapurna-DF",
-      image: "/public/product17.jpg",
+      image: "/images/product17.jpg",
       category: "Micronutrient Mixture",
       desc: "Micronutrient supplement to improve plant growth and productivity.",
       details: ["Boosts photosynthesis", "Ensures optimal crop development"],
@@ -192,7 +192,7 @@ export const Products = () => {
     },
     {
       name: "Riofert-DF",
-      image: "/public/product18.jpg",
+      image: "/images/product18.jpg",
       category: "Micronutrient Mixture",
       desc: "Essential nutrients to optimize growth and physiological activity.",
       details: ["Improves yields", "Promotes plant health"],
@@ -253,7 +253,7 @@ export const Products = () => {
                   rel="noopener noreferrer"
                 >
                   <button className="mt-2 px-4 py-2 bg-[#F57C00] text-white rounded-full hover:bg-[#ef6c00] transition-all duration-300 shadow-md">
-                    Enquire Now 
+                    Enquire Now
                   </button>
                 </a>
               </div>
